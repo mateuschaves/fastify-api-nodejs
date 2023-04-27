@@ -10,7 +10,7 @@ Api de transações feita usando Fastify, Knex e testes automatizados com Vitest
 
 ## Instalação
 
- 1. Clone o repositório: `git clone https://github.com/mateuschaves/node-streams.git`
+ 1. Clone o repositório: `git clone https://github.com/mateuschaves/fastify-api-nodejs.git`
  2. Instale as dependências: `npm install`
  3. Crie um arquivo `.env` usando o modelo de exemplo `.env.example`
  4. Execute as migrations usando o comando: `npm run knex -- migrate:latest`
